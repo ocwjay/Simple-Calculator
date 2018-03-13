@@ -1,0 +1,42 @@
+body {
+  background-color: #111111;
+}
+
+#calculationField {
+  color: #eeeeee;
+  background-color: #222222;
+  width: 500px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  border: 1px solid #111111;
+}
+#calcText {
+  margin: auto;
+}
+
+.btns {
+  background-color: #0066ff;
+  color: #ffffff;
+  margin: 0;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #005ce6;
+}
+
+.btnBig {
+  background-color: #0066ff;
+  color: #ffffff;
+  margin: 0;
+  width: 200px;
+  height: 100px;
+  border: 1px solid #005ce6;
+}
+
+/*Animationsssss*/
+.btns:hover {
+  background-color: #0047b3;
+}
+.btnBig:hover {
+  background-color: #0047b3;
+}
