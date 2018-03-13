@@ -8,24 +8,24 @@ Also, if this is a thing you want to copy and use in your website, BEWARE it use
 
 # Keyboard Controls
 It's pretty straightforward. Here's a list of key commands:
-- 1 : 1
-- 2 : 2
-- 3 : 3
-- 4 : 4
-- 5 : 5
-- 6 : 6
-- 7 : 7
-- 8 : 8
-- 9 : 9
-- 0 : 0
-- . : .
-- + : Shift + +
-- - : -
-- * : Shift + 8
-- / : /
-- Back : Backspace
-- Clear : Delete
-- Equal : Enter
+- "1" : 1
+- "2" : 2
+- "3" : 3
+- "4" : 4
+- "5" : 5
+- "6" : 6
+- "7" : 7
+- "8" : 8
+- "9" : 9
+- "0" : 0
+- "." : .
+- "+" : Shift + +
+- "-" : -
+- "*" : Shift + 8
+- "/" : /
+- "Back" : Backspace
+- "Clear" : Delete
+- "Equal" : Enter
 
 # Inspiration
 Got the idea to code this from Idea Bag 2. Just precticing things I already knew and trying to learn some new working knowledge along the way. 
